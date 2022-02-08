@@ -1,0 +1,22 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mynamespace:TimeTable xmlns:mynamespace ="https://www.itmo.ru/xml/lessons" >
+<mynamespace:item>
+    <mynamespace:HTML>
+        <mynamespace:Tutor>Константин Кузьмин</mynamespace:Tutor>
+        <mynamespace:DateStart>03.02.2022</mynamespace:DateStart>
+        <mynamespace:DateEnd>04.02.2022</mynamespace:DateEnd>
+        <mynamespace:Exam>Практика</mynamespace:Exam>
+    </mynamespace:HTML>
+    <mynamespace:CSS>
+        <mynamespace:Tutor>Константин Кузьмин</mynamespace:Tutor>
+        <mynamespace:DateStart>05.02.2022</mynamespace:DateStart>
+        <mynamespace:DateEnd>05.02.2022</mynamespace:DateEnd>
+        <mynamespace:Exam>Практика</mynamespace:Exam>
+    </mynamespace:CSS>
+    <mynamespace:XML>
+        <mynamespace:Tutor>Константин Кузьмин</mynamespace:Tutor>
+        <mynamespace:DateStart>06.02.2022</mynamespace:DateStart>
+        <mynamespace:DateEnd>06.02.2022</mynamespace:DateEnd>
+        <mynamespace:Exam>Практика</mynamespace:Exam>
+    </mynamespace:XML>
+</mynamespace:item>

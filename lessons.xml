@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Education_plan>
+    <HTML>
+        <Tutor>Константин Кузьмин</Tutor>
+        <DateStart>03.02.2022</DateStart>
+        <DateEnd>04.02.2022</DateEnd>
+        <Exam>Практика</Exam>
+    </HTML>
+    <CSS>
+        <Tutor>Константин Кузьмин</Tutor>
+        <DateStart>05.02.2022</DateStart>
+        <DateEnd>05.02.2022</DateEnd>
+        <Exam>Практика</Exam>
+    </CSS>
+    <XML>
+        <Tutor>Константин Кузьмин</Tutor>
+        <DateStart>06.02.2022</DateStart>
+        <DateEnd>06.02.2022</DateEnd>
+        <Exam>Практика</Exam>
+    </XML>
+</Education_plan>
